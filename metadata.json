@@ -1,0 +1,6 @@
+{
+  "name": "FastJobs",
+  "description": "Find Jobs Faster with AI. Discover jobs, understand companies, compare opportunities, analyze salaries, improve resumes, and prepare for interviews with FastJobs AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
